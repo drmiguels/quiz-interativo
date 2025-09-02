@@ -13,7 +13,7 @@ let perguntaAtual;
 
 botaoIniciar.addEventListener('click', iniciaJogo);
 
-function iniciaJogo() {}
+function iniciaJogo() {
   atual= 0;
   telaInicial.computedStyleMap.display = 'none';
   caixaPerguntas.classList.remove(".mostrar");
