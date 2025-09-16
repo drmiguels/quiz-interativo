@@ -41,7 +41,7 @@ const perguntas = [
         ]
     },
         {
-        enunciado: " Embora seja perigoso, você decide ir a trilha da floresta para procurar as peças da sua moto, porém se depara com um urso", 
+        enunciado: " Embora seja perigoso, você decide ir a trilha da floresta para procurar as peças da sua moto, porém se depara com um urso selvagem faminto, vocẽ enfrenta ou foge??", 
         alternativas: [
             {
                 texto: " você enfrenta ",
@@ -82,19 +82,19 @@ const perguntas = [
         ]
     },
         {
-        enunciado: " Quando volta a estrada já amanheceu, ", 
+        enunciado: " Quando volta a estrada percebe-se que já e manhã, mas acaba lembrando que você tem peças reservas nos compartimentos traseiros da moto, tu pedes ajuda ou concerta sozinho?  , ", 
         alternativas: [
             {
-                texto: "alternativa 1",
+                texto: " pede ajuda",
                 afirmacao: [
-                    "afirmação 1",
+                    " Playboy que não sabe concertar a moto, mas consegue ir para casa ",
                     "afirmação 2"
                 ],
             },
             {
-                texto: "alternativa 2",
+                texto: " concerta sozinho ",
                 afirmaca o: [
-                    "afirmação 1",
+                    " com sua inteligência e hombridade consegues voltar para casa em segurança",
                     "afirmação 2"
                 ],
             }
