@@ -93,7 +93,7 @@ const perguntas = [
             },
             {
                 texto: " concerta sozinho ",
-                afirmaca o: [
+                afirmacao: [
                     " com sua inteligência e hombridade consegues voltar para casa em segurança",
                     "afirmação 2"
                 ],
